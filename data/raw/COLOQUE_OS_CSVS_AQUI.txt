@@ -1,0 +1,1 @@
+Extraia aqui os arquivos CSV baixados da página oficial do Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
