@@ -57,7 +57,7 @@ O tratamento inclui conversão de datas, conferência de valores ausentes, remo�
 Os indicadores acima foram transcritos do relatório do projeto e devem ser conferidos com os filtros e as fontes efetivamente usados no dashboard. O notebook/script permite reproduzir a análise a partir dos CSVs originais.
 
 ## Dashboard
-**Link do Looker Studio:** https://datastudio.google.com/u/0/reporting/8c9f6875-a1de-4023-ba23-e15f9c526480/page/6L8DG?s=g7XIWj-BPZs
+https://datastudio.google.com/u/0/reporting/8c9f6875-a1de-4023-ba23-e15f9c526480/page/6L8DG?s=g7XIWj-BPZs
 
 ## Conclusões e recomendações
 Os resultados mostram a importância de acompanhar vendas, localização dos clientes, pagamentos e avaliações em conjunto. Recomenda-se monitorar mensalmente o volume de pedidos, investigar avaliações baixas, acompanhar os estados com maior demanda e revisar a experiência de pagamento e entrega.
