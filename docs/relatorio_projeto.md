@@ -76,7 +76,7 @@ Também foram observados os seguintes pontos:
 
 Os resultados foram organizados em um dashboard no Looker Studio, com indicadores e gráficos para facilitar a leitura das informações. O painel contempla a evolução dos pedidos, a distribuição geográfica dos clientes, as avaliações, as formas de pagamento e as categorias de produtos.
 
-**Link do dashboard:** inserir o link compartilhável do Looker Studio antes de publicar a versão final no GitHub.
+**Link do dashboard:** https://datastudio.google.com/u/0/reporting/8c9f6875-a1de-4023-ba23-e15f9c526480/page/6L8DG?s=g7XIWj-BPZs
 
 As visualizações ajudam a transformar tabelas extensas em informações mais simples, facilitando a identificação de tendências e pontos de atenção.
 
