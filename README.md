@@ -49,7 +49,7 @@ O tratamento inclui conversão de datas, conferência de valores ausentes, remo�
 ## Principais resultados registrados no relatório
 - 99.441 pedidos.
 - 96.096 clientes únicos.
-- R$ 13.569.858,94 em valor de produtos.
+- R$ 13.591.643,70 em valor de produtos.
 - Nota média de avaliação: 4,09.
 - São Paulo aparece como o estado com maior concentração de clientes, seguido por Rio de Janeiro e Minas Gerais.
 - O cartão de crédito é a forma de pagamento predominante na visualização analisada.
