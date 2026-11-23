@@ -58,9 +58,14 @@ Os indicadores acima foram transcritos do relatório do projeto e devem ser conf
 
 ## Dashboard
 
-O dashboard interativo foi desenvolvido no Looker Studio e pode ser acessado pelo link público:
+O dashboard interativo foi desenvolvido no Microsoft Power BI, com indicadores, gráficos e filtros para análise dos dados de vendas da Olist.
+
+O arquivo do projeto (.pbix) será disponibilizado junto com a entrega da atividade.
+
+E também foi desenvolvido no Looker Studio e pode ser acessado pelo link público:
 
 https://datastudio.google.com/reporting/8c9f6875-a1de-4023-ba23-e15f9c526480
+
 
 ## Conclusões e recomendações
 Os resultados mostram a importância de acompanhar vendas, localização dos clientes, pagamentos e avaliações em conjunto. Recomenda-se monitorar mensalmente o volume de pedidos, investigar avaliações baixas, acompanhar os estados com maior demanda e revisar a experiência de pagamento e entrega.
